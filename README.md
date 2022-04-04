@@ -1,4 +1,4 @@
- 👋 Hi, I’m @AShunevych I’m interested in creating apps for Android using Java and sometimes Kotlin(<--i’m currently learning, but in fact i learning both because you never stop learning )
+ 👋 Hi, I’m @AShunevych I’m interested in creating apps for Android using Kotlin and sometimes Java
 
 <!---
 AShunevych/AShunevych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
